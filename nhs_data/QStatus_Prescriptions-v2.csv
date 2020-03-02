@@ -1,0 +1,283 @@
+Time period,OrgCode,ParentOrgCode,QuitStatus,MonitoringCategory,Total
+2018/19,E06000001,E12000001,Quit,Free prescriptions,322
+2018/19,E06000001,E12000001,Set quit date,Free prescriptions,882
+2018/19,E06000002,E12000001,Quit,Free prescriptions,347
+2018/19,E06000002,E12000001,Set quit date,Free prescriptions,884
+2018/19,E06000003,E12000001,Quit,Free prescriptions,383
+2018/19,E06000003,E12000001,Set quit date,Free prescriptions,855
+2018/19,E06000004,E12000001,Quit,Free prescriptions,457
+2018/19,E06000004,E12000001,Set quit date,Free prescriptions,1245
+2018/19,E06000005,E12000001,Quit,Free prescriptions,123
+2018/19,E06000005,E12000001,Set quit date,Free prescriptions,195
+2018/19,E06000006,E12000002,Quit,Free prescriptions,190
+2018/19,E06000006,E12000002,Set quit date,Free prescriptions,531
+2018/19,E06000007,E12000002,Quit,Free prescriptions,541
+2018/19,E06000007,E12000002,Set quit date,Free prescriptions,682
+2018/19,E06000008,E12000002,Quit,Free prescriptions,271
+2018/19,E06000008,E12000002,Set quit date,Free prescriptions,779
+2018/19,E06000009,E12000002,Quit,Free prescriptions,97
+2018/19,E06000009,E12000002,Set quit date,Free prescriptions,630
+2018/19,E06000010,E12000003,Quit,Free prescriptions,775
+2018/19,E06000010,E12000003,Set quit date,Free prescriptions,1094
+2018/19,E06000011,E12000003,Quit,Free prescriptions,497
+2018/19,E06000011,E12000003,Set quit date,Free prescriptions,901
+2018/19,E06000012,E12000003,Quit,Free prescriptions,234
+2018/19,E06000012,E12000003,Set quit date,Free prescriptions,479
+2018/19,E06000013,E12000003,Quit,Free prescriptions,0
+2018/19,E06000013,E12000003,Set quit date,Free prescriptions,0
+2018/19,E06000015,E12000004,Quit,Free prescriptions,267
+2018/19,E06000015,E12000004,Set quit date,Free prescriptions,468
+2018/19,E06000016,E12000004,Quit,Free prescriptions,847
+2018/19,E06000016,E12000004,Set quit date,Free prescriptions,1612
+2018/19,E06000017,E12000004,Quit,Free prescriptions,34
+2018/19,E06000017,E12000004,Set quit date,Free prescriptions,47
+2018/19,E06000019,E12000005,Quit,Free prescriptions,59
+2018/19,E06000019,E12000005,Set quit date,Free prescriptions,134
+2018/19,E06000020,E12000005,Quit,Free prescriptions,356
+2018/19,E06000020,E12000005,Set quit date,Free prescriptions,810
+2018/19,E06000021,E12000005,Quit,Free prescriptions,1250
+2018/19,E06000021,E12000005,Set quit date,Free prescriptions,1717
+2018/19,E06000022,E12000009,Quit,Free prescriptions,191
+2018/19,E06000022,E12000009,Set quit date,Free prescriptions,269
+2018/19,E06000023,E12000009,Quit,Free prescriptions,109
+2018/19,E06000023,E12000009,Set quit date,Free prescriptions,304
+2018/19,E06000024,E12000009,Quit,Free prescriptions,373
+2018/19,E06000024,E12000009,Set quit date,Free prescriptions,829
+2018/19,E06000025,E12000009,Quit,Free prescriptions,148
+2018/19,E06000025,E12000009,Set quit date,Free prescriptions,469
+2018/19,E06000026,E12000009,Quit,Free prescriptions,329
+2018/19,E06000026,E12000009,Set quit date,Free prescriptions,881
+2018/19,E06000027,E12000009,Quit,Free prescriptions,115
+2018/19,E06000027,E12000009,Set quit date,Free prescriptions,274
+2018/19,E06000028,E12000009,Quit,Free prescriptions,157
+2018/19,E06000028,E12000009,Set quit date,Free prescriptions,203
+2018/19,E06000029,E12000009,Quit,Free prescriptions,73
+2018/19,E06000029,E12000009,Set quit date,Free prescriptions,104
+2018/19,E06000030,E12000009,Quit,Free prescriptions,171
+2018/19,E06000030,E12000009,Set quit date,Free prescriptions,598
+2018/19,E06000031,E12000006,Quit,Free prescriptions,488
+2018/19,E06000031,E12000006,Set quit date,Free prescriptions,912
+2018/19,E06000032,E12000006,Quit,Free prescriptions,317
+2018/19,E06000032,E12000006,Set quit date,Free prescriptions,650
+2018/19,E06000033,E12000006,Quit,Free prescriptions,338
+2018/19,E06000033,E12000006,Set quit date,Free prescriptions,934
+2018/19,E06000034,E12000006,Quit,Free prescriptions,251
+2018/19,E06000034,E12000006,Set quit date,Free prescriptions,508
+2018/19,E06000035,E12000008,Quit,Free prescriptions,811
+2018/19,E06000035,E12000008,Set quit date,Free prescriptions,1488
+2018/19,E06000037,E12000008,Quit,Free prescriptions,129
+2018/19,E06000037,E12000008,Set quit date,Free prescriptions,221
+2018/19,E06000038,E12000008,Quit,Free prescriptions,243
+2018/19,E06000038,E12000008,Set quit date,Free prescriptions,413
+2018/19,E06000039,E12000008,Quit,Free prescriptions,287
+2018/19,E06000039,E12000008,Set quit date,Free prescriptions,396
+2018/19,E06000040,E12000008,Quit,Free prescriptions,67
+2018/19,E06000040,E12000008,Set quit date,Free prescriptions,120
+2018/19,E06000041,E12000008,Quit,Free prescriptions,124
+2018/19,E06000041,E12000008,Set quit date,Free prescriptions,181
+2018/19,E06000042,E12000008,Quit,Free prescriptions,511
+2018/19,E06000042,E12000008,Set quit date,Free prescriptions,1003
+2018/19,E06000043,E12000008,Quit,Free prescriptions,473
+2018/19,E06000043,E12000008,Set quit date,Free prescriptions,1133
+2018/19,E06000044,E12000008,Quit,Free prescriptions,282
+2018/19,E06000044,E12000008,Set quit date,Free prescriptions,550
+2018/19,E06000045,E12000008,Quit,Free prescriptions,139
+2018/19,E06000045,E12000008,Set quit date,Free prescriptions,266
+2018/19,E06000046,E12000008,Quit,Free prescriptions,0
+2018/19,E06000046,E12000008,Set quit date,Free prescriptions,0
+2018/19,E06000047,E12000001,Quit,Free prescriptions,1569
+2018/19,E06000047,E12000001,Set quit date,Free prescriptions,2481
+2018/19,E06000049,E12000002,Quit,Free prescriptions,244
+2018/19,E06000049,E12000002,Set quit date,Free prescriptions,823
+2018/19,E06000050,E12000002,Quit,Free prescriptions,70
+2018/19,E06000050,E12000002,Set quit date,Free prescriptions,155
+2018/19,E06000051,E12000005,Quit,Free prescriptions,341
+2018/19,E06000051,E12000005,Set quit date,Free prescriptions,735
+2018/19,E06000052,E12000009,Quit,Free prescriptions,1354
+2018/19,E06000052,E12000009,Set quit date,Free prescriptions,2960
+2018/19,E06000053,E12000009,Quit,Free prescriptions,8
+2018/19,E06000053,E12000009,Set quit date,Free prescriptions,20
+2018/19,E06000054,E12000009,Quit,Free prescriptions,444
+2018/19,E06000054,E12000009,Set quit date,Free prescriptions,867
+2018/19,E06000055,E12000006,Quit,Free prescriptions,217
+2018/19,E06000055,E12000006,Set quit date,Free prescriptions,391
+2018/19,E06000056,E12000006,Quit,Free prescriptions,282
+2018/19,E06000056,E12000006,Set quit date,Free prescriptions,477
+2018/19,E06000057,E12000001,Quit,Free prescriptions,599
+2018/19,E06000057,E12000001,Set quit date,Free prescriptions,1421
+2018/19,E08000002,E12000002,Quit,Free prescriptions,22
+2018/19,E08000002,E12000002,Set quit date,Free prescriptions,68
+2018/19,E08000004,E12000002,Quit,Free prescriptions,395
+2018/19,E08000004,E12000002,Set quit date,Free prescriptions,900
+2018/19,E08000005,E12000002,Quit,Free prescriptions,359
+2018/19,E08000005,E12000002,Set quit date,Free prescriptions,545
+2018/19,E08000006,E12000002,Quit,Free prescriptions,125
+2018/19,E08000006,E12000002,Set quit date,Free prescriptions,132
+2018/19,E08000007,E12000002,Quit,Free prescriptions,173
+2018/19,E08000007,E12000002,Set quit date,Free prescriptions,471
+2018/19,E08000008,E12000002,Quit,Free prescriptions,356
+2018/19,E08000008,E12000002,Set quit date,Free prescriptions,809
+2018/19,E08000009,E12000002,Quit,Free prescriptions,62
+2018/19,E08000009,E12000002,Set quit date,Free prescriptions,211
+2018/19,E08000010,E12000002,Quit,Free prescriptions,427
+2018/19,E08000010,E12000002,Set quit date,Free prescriptions,1029
+2018/19,E08000011,E12000002,Quit,Free prescriptions,732
+2018/19,E08000011,E12000002,Set quit date,Free prescriptions,1387
+2018/19,E08000012,E12000002,Quit,Free prescriptions,2045
+2018/19,E08000012,E12000002,Set quit date,Free prescriptions,3988
+2018/19,E08000013,E12000002,Quit,Free prescriptions,795
+2018/19,E08000013,E12000002,Set quit date,Free prescriptions,1582
+2018/19,E08000014,E12000002,Quit,Free prescriptions,826
+2018/19,E08000014,E12000002,Set quit date,Free prescriptions,1457
+2018/19,E08000015,E12000002,Quit,Free prescriptions,1121
+2018/19,E08000015,E12000002,Set quit date,Free prescriptions,2346
+2018/19,E08000016,E12000003,Quit,Free prescriptions,769
+2018/19,E08000016,E12000003,Set quit date,Free prescriptions,1244
+2018/19,E08000017,E12000003,Quit,Free prescriptions,931
+2018/19,E08000017,E12000003,Set quit date,Free prescriptions,1558
+2018/19,E08000018,E12000003,Quit,Free prescriptions,123
+2018/19,E08000018,E12000003,Set quit date,Free prescriptions,180
+2018/19,E08000019,E12000003,Quit,Free prescriptions,827
+2018/19,E08000019,E12000003,Set quit date,Free prescriptions,1488
+2018/19,E08000021,E12000001,Quit,Free prescriptions,671
+2018/19,E08000021,E12000001,Set quit date,Free prescriptions,1587
+2018/19,E08000022,E12000001,Quit,Free prescriptions,453
+2018/19,E08000022,E12000001,Set quit date,Free prescriptions,1019
+2018/19,E08000023,E12000001,Quit,Free prescriptions,286
+2018/19,E08000023,E12000001,Set quit date,Free prescriptions,647
+2018/19,E08000024,E12000001,Quit,Free prescriptions,412
+2018/19,E08000024,E12000001,Set quit date,Free prescriptions,930
+2018/19,E08000026,E12000005,Quit,Free prescriptions,488
+2018/19,E08000026,E12000005,Set quit date,Free prescriptions,1204
+2018/19,E08000027,E12000005,Quit,Free prescriptions,255
+2018/19,E08000027,E12000005,Set quit date,Free prescriptions,472
+2018/19,E08000028,E12000005,Quit,Free prescriptions,642
+2018/19,E08000028,E12000005,Set quit date,Free prescriptions,1943
+2018/19,E08000029,E12000005,Quit,Free prescriptions,370
+2018/19,E08000029,E12000005,Set quit date,Free prescriptions,806
+2018/19,E08000030,E12000005,Quit,Free prescriptions,536
+2018/19,E08000030,E12000005,Set quit date,Free prescriptions,873
+2018/19,E08000033,E12000003,Quit,Free prescriptions,481
+2018/19,E08000033,E12000003,Set quit date,Free prescriptions,853
+2018/19,E08000034,E12000003,Quit,Free prescriptions,0
+2018/19,E08000034,E12000003,Set quit date,Free prescriptions,0
+2018/19,E08000035,E12000003,Quit,Free prescriptions,382
+2018/19,E08000035,E12000003,Set quit date,Free prescriptions,592
+2018/19,E08000036,E12000003,Quit,Free prescriptions,818
+2018/19,E08000036,E12000003,Set quit date,Free prescriptions,1181
+2018/19,E08000037,E12000001,Quit,Free prescriptions,278
+2018/19,E08000037,E12000001,Set quit date,Free prescriptions,539
+2018/19,E09000001,E12000007,Quit,Free prescriptions,38
+2018/19,E09000001,E12000007,Set quit date,Free prescriptions,81
+2018/19,E09000002,E12000007,Quit,Free prescriptions,374
+2018/19,E09000002,E12000007,Set quit date,Free prescriptions,729
+2018/19,E09000003,E12000007,Quit,Free prescriptions,198
+2018/19,E09000003,E12000007,Set quit date,Free prescriptions,405
+2018/19,E09000004,E12000007,Quit,Free prescriptions,286
+2018/19,E09000004,E12000007,Set quit date,Free prescriptions,558
+2018/19,E09000005,E12000007,Quit,Free prescriptions,349
+2018/19,E09000005,E12000007,Set quit date,Free prescriptions,772
+2018/19,E09000007,E12000007,Quit,Free prescriptions,562
+2018/19,E09000007,E12000007,Set quit date,Free prescriptions,959
+2018/19,E09000008,E12000007,Quit,Free prescriptions,529
+2018/19,E09000008,E12000007,Set quit date,Free prescriptions,800
+2018/19,E09000009,E12000007,Quit,Free prescriptions,140
+2018/19,E09000009,E12000007,Set quit date,Free prescriptions,219
+2018/19,E09000010,E12000007,Quit,Free prescriptions,109
+2018/19,E09000010,E12000007,Set quit date,Free prescriptions,276
+2018/19,E09000011,E12000007,Quit,Free prescriptions,284
+2018/19,E09000011,E12000007,Set quit date,Free prescriptions,570
+2018/19,E09000012,E12000007,Quit,Free prescriptions,791
+2018/19,E09000012,E12000007,Set quit date,Free prescriptions,1615
+2018/19,E09000013,E12000007,Quit,Free prescriptions,1163
+2018/19,E09000013,E12000007,Set quit date,Free prescriptions,1984
+2018/19,E09000014,E12000007,Quit,Free prescriptions,129
+2018/19,E09000014,E12000007,Set quit date,Free prescriptions,374
+2018/19,E09000016,E12000007,Quit,Free prescriptions,14
+2018/19,E09000016,E12000007,Set quit date,Free prescriptions,28
+2018/19,E09000017,E12000007,Quit,Free prescriptions,194
+2018/19,E09000017,E12000007,Set quit date,Free prescriptions,564
+2018/19,E09000018,E12000007,Quit,Free prescriptions,335
+2018/19,E09000018,E12000007,Set quit date,Free prescriptions,657
+2018/19,E09000019,E12000007,Quit,Free prescriptions,635
+2018/19,E09000019,E12000007,Set quit date,Free prescriptions,1149
+2018/19,E09000020,E12000007,Quit,Free prescriptions,653
+2018/19,E09000020,E12000007,Set quit date,Free prescriptions,1147
+2018/19,E09000021,E12000007,Quit,Free prescriptions,76
+2018/19,E09000021,E12000007,Set quit date,Free prescriptions,176
+2018/19,E09000022,E12000007,Quit,Free prescriptions,294
+2018/19,E09000022,E12000007,Set quit date,Free prescriptions,531
+2018/19,E09000023,E12000007,Quit,Free prescriptions,257
+2018/19,E09000023,E12000007,Set quit date,Free prescriptions,481
+2018/19,E09000024,E12000007,Quit,Free prescriptions,40
+2018/19,E09000024,E12000007,Set quit date,Free prescriptions,79
+2018/19,E09000025,E12000007,Quit,Free prescriptions,295
+2018/19,E09000025,E12000007,Set quit date,Free prescriptions,692
+2018/19,E09000026,E12000007,Quit,Free prescriptions,297
+2018/19,E09000026,E12000007,Set quit date,Free prescriptions,559
+2018/19,E09000027,E12000007,Quit,Free prescriptions,123
+2018/19,E09000027,E12000007,Set quit date,Free prescriptions,200
+2018/19,E09000028,E12000007,Quit,Free prescriptions,244
+2018/19,E09000028,E12000007,Set quit date,Free prescriptions,441
+2018/19,E09000030,E12000007,Quit,Free prescriptions,1725
+2018/19,E09000030,E12000007,Set quit date,Free prescriptions,2800
+2018/19,E09000031,E12000007,Quit,Free prescriptions,272
+2018/19,E09000031,E12000007,Set quit date,Free prescriptions,509
+2018/19,E09000032,E12000007,Quit,Free prescriptions,297
+2018/19,E09000032,E12000007,Set quit date,Free prescriptions,578
+2018/19,E09000033,E12000007,Quit,Free prescriptions,901
+2018/19,E09000033,E12000007,Set quit date,Free prescriptions,1754
+2018/19,E10000002,E12000008,Quit,Free prescriptions,0
+2018/19,E10000002,E12000008,Set quit date,Free prescriptions,0
+2018/19,E10000003,E12000006,Quit,Free prescriptions,707
+2018/19,E10000003,E12000006,Set quit date,Free prescriptions,1182
+2018/19,E10000006,E12000002,Quit,Free prescriptions,233
+2018/19,E10000006,E12000002,Set quit date,Free prescriptions,1318
+2018/19,E10000007,E12000004,Quit,Free prescriptions,329
+2018/19,E10000007,E12000004,Set quit date,Free prescriptions,545
+2018/19,E10000008,E12000009,Quit,Free prescriptions,660
+2018/19,E10000008,E12000009,Set quit date,Free prescriptions,1520
+2018/19,E10000009,E12000009,Quit,Free prescriptions,236
+2018/19,E10000009,E12000009,Set quit date,Free prescriptions,338
+2018/19,E10000011,E12000008,Quit,Free prescriptions,855
+2018/19,E10000011,E12000008,Set quit date,Free prescriptions,1865
+2018/19,E10000012,E12000006,Quit,Free prescriptions,1106
+2018/19,E10000012,E12000006,Set quit date,Free prescriptions,1776
+2018/19,E10000013,E12000009,Quit,Free prescriptions,636
+2018/19,E10000013,E12000009,Set quit date,Free prescriptions,1192
+2018/19,E10000014,E12000008,Quit,Free prescriptions,1349
+2018/19,E10000014,E12000008,Set quit date,Free prescriptions,2315
+2018/19,E10000015,E12000006,Quit,Free prescriptions,1374
+2018/19,E10000015,E12000006,Set quit date,Free prescriptions,3382
+2018/19,E10000016,E12000008,Quit,Free prescriptions,1471
+2018/19,E10000016,E12000008,Set quit date,Free prescriptions,2736
+2018/19,E10000017,E12000002,Quit,Free prescriptions,2832
+2018/19,E10000017,E12000002,Set quit date,Free prescriptions,5969
+2018/19,E10000018,E12000004,Quit,Free prescriptions,846
+2018/19,E10000018,E12000004,Set quit date,Free prescriptions,1454
+2018/19,E10000019,E12000004,Quit,Free prescriptions,1381
+2018/19,E10000019,E12000004,Set quit date,Free prescriptions,2883
+2018/19,E10000020,E12000006,Quit,Free prescriptions,1788
+2018/19,E10000020,E12000006,Set quit date,Free prescriptions,3466
+2018/19,E10000021,E12000004,Quit,Free prescriptions,611
+2018/19,E10000021,E12000004,Set quit date,Free prescriptions,1508
+2018/19,E10000023,E12000003,Quit,Free prescriptions,440
+2018/19,E10000023,E12000003,Set quit date,Free prescriptions,843
+2018/19,E10000024,E12000004,Quit,Free prescriptions,1509
+2018/19,E10000024,E12000004,Set quit date,Free prescriptions,2241
+2018/19,E10000025,E12000008,Quit,Free prescriptions,621
+2018/19,E10000025,E12000008,Set quit date,Free prescriptions,921
+2018/19,E10000027,E12000009,Quit,Free prescriptions,535
+2018/19,E10000027,E12000009,Set quit date,Free prescriptions,1136
+2018/19,E10000028,E12000005,Quit,Free prescriptions,218
+2018/19,E10000028,E12000005,Set quit date,Free prescriptions,314
+2018/19,E10000029,E12000006,Quit,Free prescriptions,799
+2018/19,E10000029,E12000006,Set quit date,Free prescriptions,1714
+2018/19,E10000030,E12000008,Quit,Free prescriptions,685
+2018/19,E10000030,E12000008,Set quit date,Free prescriptions,1654
+2018/19,E10000031,E12000005,Quit,Free prescriptions,299
+2018/19,E10000031,E12000005,Set quit date,Free prescriptions,861
+2018/19,E10000032,E12000008,Quit,Free prescriptions,147
+2018/19,E10000032,E12000008,Set quit date,Free prescriptions,398
+2018/19,E10000034,E12000005,Quit,Free prescriptions,66
+2018/19,E10000034,E12000005,Set quit date,Free prescriptions,263

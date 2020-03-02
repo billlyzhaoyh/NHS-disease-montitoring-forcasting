@@ -1,0 +1,522 @@
+,code_stem,code_name,l1,l2,l3
+0,01,Gastro-Intestinal System,01,,
+1,0101,Dyspep&Gastro-Oesophageal Reflux Disease,01,01,
+2,010101,Antacids and Simeticone,01,01,01
+3,010102,Compound Alginates&Prop Indigestion Prep,01,01,02
+4,0102,Antispasmod.&Other Drgs Alt.Gut Motility,01,02,
+5,0103,Antisecretory Drugs+Mucosal Protectants,01,03,
+6,010301,H2-Receptor Antagonists,01,03,01
+7,010302,Selective Antimuscarinics,01,03,02
+8,010303,Chelates And Complexes,01,03,03
+9,010304,Prostaglandin Analogues,01,03,04
+10,010305,Proton Pump Inhibitors,01,03,05
+11,0104,Acute Diarrhoea,01,04,
+12,010401,Adsorbents And Bulk-Forming Drugs,01,04,01
+13,010402,Antimotility Drugs,01,04,02
+14,010403,Enkephalinase Inhibitors,01,04,03
+15,010404,Tryptophan Hydroxylase Inhibitors,01,04,04
+16,0105,Chronic Bowel Disorders,01,05,
+17,010501,Aminosalicylates,01,05,01
+18,010502,Corticosteroids,01,05,02
+19,010503,Drugs Affecting Immune Response,01,05,03
+20,010504,Food Allergy,01,05,04
+21,0106,Laxatives,01,06,
+22,010601,Bulk-Forming Laxatives,01,06,01
+23,010602,Stimulant Laxatives,01,06,02
+24,010603,Faecal Softeners,01,06,03
+25,010604,Osmotic Laxatives,01,06,04
+26,010605,Bowel Cleansing Preparations,01,06,05
+27,010606,Peripheral Opioid-Receptor Antagonists,01,06,06
+28,010607,Other Drugs Used In Constipation,01,06,07
+29,0107,Local Prepn for Anal & Rectal Disorders,01,07,
+30,010701,Soothing Haemorrhoidal Preparations,01,07,01
+31,010702,Co Haemorrhoidal Prep's + Corticosteroid,01,07,02
+32,010703,Rectal Sclerosants,01,07,03
+33,010704,Management of Anal Fissures,01,07,04
+34,0108,Stoma Care,01,08,
+35,010801,Local Care of Stoma,01,08,01
+36,0109,Drugs Affecting Intestinal Secretions,01,09,
+37,010901,Drugs Affecting Biliary Composition&Flow,01,09,01
+38,010904,Pancreatin,01,09,04
+39,02,Cardiovascular System,02,,
+40,0201,Positive Inotropic Drugs,02,01,
+41,020101,Cardiac Glycosides,02,01,01
+42,020102,Phosphodiesterase Type-3 Inhibitors,02,01,02
+43,0202,Diuretics,02,02,
+44,020201,Thiazides And Related Diuretics,02,02,01
+45,020202,Loop Diuretics,02,02,02
+46,020203,Pot-Sparing Diuretics&Aldosterone Antag,02,02,03
+47,020204,Potassium Sparing Diuretics & Compounds,02,02,04
+48,020205,Osmotic Diuretics,02,02,05
+49,020208,Diuretics With Potassium,02,02,08
+50,0203,Anti-Arrhythmic Drugs,02,03,
+51,020302,Drugs For Arrhythmias,02,03,02
+52,0204,Beta-Adrenoceptor Blocking Drugs,02,04,
+53,0205,Hypertension and Heart Failure,02,05,
+54,020501,Vasodilator Antihypertensive Drugs,02,05,01
+55,020502,Centrally-Acting Antihypertensive Drugs,02,05,02
+56,020503,Adrenergic Neurone Blocking Drugs,02,05,03
+57,020504,Alpha-Adrenoceptor Blocking Drugs,02,05,04
+58,020505,Renin-Angiotensin System Drugs,02,05,05
+59,020508,Other Adrenergic Neurone Blocking Drugs,02,05,08
+60,0206,"Nit,Calc Block & Other Antianginal Drugs",02,06,
+61,020601,Nitrates,02,06,01
+62,020602,Calcium-Channel Blockers,02,06,02
+63,020603,Other Antianginal Drugs,02,06,03
+64,020604,Peripheral Vasodilators & Related Drugs,02,06,04
+65,0207,Sympathomimetics,02,07,
+66,020701,Inotropic Sympathomimetics,02,07,01
+67,020702,Vasoconstrictor Sympathomimetics,02,07,02
+68,020703,Cardiopulmonary Resuscitation,02,07,03
+69,0208,Anticoagulants And Protamine,02,08,
+70,020801,Parenteral Anticoagulants,02,08,01
+71,020802,Oral Anticoagulants,02,08,02
+72,020803,Protamine Sulfate,02,08,03
+73,0209,Antiplatelet Drugs,02,09,
+74,0210,"Stable Angina, Acute/Crnry Synd&Fibrin",02,10,
+75,021002,Fibrinolytic Drugs,02,10,02
+76,0211,Antifibrinolytic Drugs & Haemostatics,02,11,
+77,0212,Lipid-Regulating Drugs,02,12,
+78,0213,Local Sclerosants,02,13,
+79,03,Respiratory System,03,,
+80,0301,Bronchodilators,03,01,
+81,030101,Adrenoceptor Agonists,03,01,01
+82,030102,Antimuscarinic Bronchodilators,03,01,02
+83,030103,Theophylline,03,01,03
+84,030104,Compound Bronchodilator Preparations,03,01,04
+85,0302,Corticosteroids (Respiratory),03,02,
+86,0303,"Cromoglycate,Rel,Leukotriene Antagonists",03,03,
+87,030301,Cromoglycate and Related Therapy,03,03,01
+88,030302,Leukotriene Receptor Antagonists,03,03,02
+89,030303,Phosphodiesterase Type-4 Inhibitors,03,03,03
+90,0304,"Antihist, Hyposensit & Allergic Emergen",03,04,
+91,030401,Antihistamines,03,04,01
+92,030402,Allergen Immunotherapy,03,04,02
+93,030403,Allergic Emergencies,03,04,03
+94,0305,Resp Stimulants & Pulmonary Surfactants,03,05,
+95,030501,Respiratory Stimulants,03,05,01
+96,0306,Oxygen,03,06,
+97,0307,Mucolytics,03,07,
+98,0308,Aromatic Inhalations,03,08,
+99,0309,Cough Preparations,03,09,
+100,030901,Cough Suppressants,03,09,01
+101,030902,Expectorant & Demulcent Cough Prep's,03,09,02
+102,0310,Systemic Nasal Decongestants,03,10,
+103,0311,Antifibrotics,03,11,
+104,031101,Antifibrotics,03,11,01
+105,04,Central Nervous System,04,,
+106,0401,Hypnotics And Anxiolytics,04,01,
+107,040101,Hypnotics,04,01,01
+108,040102,Anxiolytics,04,01,02
+109,040103,Barbiturates,04,01,03
+110,0402,Drugs Used In Psychoses & Rel.Disorders,04,02,
+111,040201,Antipsychotic Drugs,04,02,01
+112,040202,Antipsychotic Depot Injections,04,02,02
+113,040203,Drugs Used for Mania and Hypomania,04,02,03
+114,0403,Antidepressant Drugs,04,03,
+115,040301,Tricyclic & Related Antidepressant Drugs,04,03,01
+116,040302,Monoamine-Oxidase Inhibitors (Maois),04,03,02
+117,040303,Selective Serotonin Re-Uptake Inhibitors,04,03,03
+118,040304,Other Antidepressant Drugs,04,03,04
+119,0404,CNS Stimulants and drugs used for ADHD,04,04,
+120,0405,Obesity,04,05,
+121,040501,Gastro-Intestinal Anti-Obesity Drugs,04,05,01
+122,040502,Centrally-Acting Appetite Suppressants,04,05,02
+123,0406,Drugs Used In Nausea And Vertigo,04,06,
+124,0407,Analgesics,04,07,
+125,040701,Non-Opioid Analgesics And Compound Prep,04,07,01
+126,040702,Opioid Analgesics,04,07,02
+127,040703,Neuropathic Pain,04,07,03
+128,040704,Antimigraine Drugs,04,07,04
+129,0408,Antiepileptic Drugs,04,08,
+130,040801,Control Of Epilepsy,04,08,01
+131,040802,Drugs Used In Status Epilepticus,04,08,02
+132,0409,Drugs Used In Park'ism/Related Disorders,04,09,
+133,040901,Dopaminergic Drugs Used In Parkinsonism,04,09,01
+134,040902,Antimuscarinic Drugs Used In Parkin'ism,04,09,02
+135,040903,"Essentialtremor,Chorea,Tics&Reldisorders",04,09,03
+136,0410,Drugs Used In Substance Dependence,04,10,
+137,041001,Alcohol Dependence,04,10,01
+138,041002,Nicotine Dependence,04,10,02
+139,041003,Opioid Dependence,04,10,03
+140,0411,Dementia,04,11,
+141,05,Infections,05,,
+142,0501,Antibacterial Drugs,05,01,
+143,050101,Penicillins,05,01,01
+144,050102,Cephalosporins and other Beta-Lactams,05,01,02
+145,050103,Tetracyclines,05,01,03
+146,050104,Aminoglycosides,05,01,04
+147,050105,Macrolides,05,01,05
+148,050106,Clindamycin and Lincomycin,05,01,06
+149,050107,Some Other Antibacterials,05,01,07
+150,050108,Sulfonamides And Trimethoprim,05,01,08
+151,050109,Antituberculosis Drugs,05,01,09
+152,050110,Antileprotic Drugs,05,01,10
+153,050111,"Metronidazole, Tinidazole & Ornidazole",05,01,11
+154,050112,Quinolones,05,01,12
+155,050113,Urinary-Tract Infections,05,01,13
+156,0502,Antifungal Drugs,05,02,
+157,050201,Triazole Antifungals,05,02,01
+158,050202,Imidazole Antifungals,05,02,02
+159,050203,Polyene Antifungals,05,02,03
+160,050204,Echinocandin Antifungals,05,02,04
+161,050205,Other Antifungals,05,02,05
+162,0503,Antiviral Drugs,05,03,
+163,050301,HIV Infection,05,03,01
+164,050302,Herpesvirus Infections,05,03,02
+165,050303,Viral Hepatitis,05,03,03
+166,050304,Influenza,05,03,04
+167,050305,Respiratory Syncytial Virus,05,03,05
+168,0504,Antiprotozoal Drugs,05,04,
+169,050401,Antimalarials,05,04,01
+170,050402,Amoebicides,05,04,02
+171,050404,Antigiardial Drugs,05,04,04
+172,050405,Leishmaniacides,05,04,05
+173,050408,Drugs For Pneumocystis Pneumonia,05,04,08
+174,0505,Anthelmintics,05,05,
+175,050501,Drugs For Threadworms,05,05,01
+176,050502,Ascaricides,05,05,02
+177,050503,Drugs For Tapeworm Infections,05,05,03
+178,050505,Schistosomicides,05,05,05
+179,050506,Filaricides,05,05,06
+180,06,Endocrine System,06,,
+181,0601,Drugs Used In Diabetes,06,01,
+182,060101,Insulin,06,01,01
+183,060102,Antidiabetic Drugs,06,01,02
+184,060104,Treatment Of Hypoglycaemia,06,01,04
+185,060106,Diabetic Diagnostic & Monitoring Agents,06,01,06
+186,0602,Thyroid And Antithyroid Drugs,06,02,
+187,060201,Thyroid Hormones,06,02,01
+188,060202,Antithyroid Drugs,06,02,02
+189,0603,Corticosteroids (Endocrine),06,03,
+190,060301,Replacement Therapy,06,03,01
+191,060302,Glucocorticoid Therapy,06,03,02
+192,0604,Sex Hormones,06,04,
+193,060401,Female Sex Hormones & Their Modulators,06,04,01
+194,060402,Male Sex Hormones And Antagonists,06,04,02
+195,060403,Anabolic Steroids,06,04,03
+196,0605,Hypothalamic&Pituitary Hormones&Antioest,06,05,
+197,060501,Hypothalamic&Ant Pituit Hormone&Antioest,06,05,01
+198,060502,Posterior Pituitary Hormones&Antagonists,06,05,02
+199,0606,Drugs Affecting Bone Metabolism,06,06,
+200,060601,Calcitonin and Parathyroid Hormone,06,06,01
+201,060602,Bisphosphonates and Other Drugs,06,06,02
+202,0607,Other Endocrine Drugs,06,07,
+203,060701,Bromocriptine & Other Dopaminergic Drugs,06,07,01
+204,060702,Drugs affecting Gonadotrophins,06,07,02
+205,060703,Metyrapone,06,07,03
+206,060704,Somatomedins,06,07,04
+207,060705,Metreleptin,06,07,05
+208,07,"Obstetrics,Gynae+Urinary Tract Disorders",07,,
+209,0701,Drugs Used In Obstetrics,07,01,
+210,070101,Prostaglandins And Oxytocics,07,01,01
+211,070103,Myometrial Relaxants,07,01,03
+212,0702,Treatment Of Vaginal & Vulval Conditions,07,02,
+213,070201,Preparations For Vaginal/Vulval Changes,07,02,01
+214,070202,Vaginal and Vulval Infections,07,02,02
+215,0703,Contraceptives,07,03,
+216,070301,Combined Hormonal Contraceptives/Systems,07,03,01
+217,070302,Progestogen-only Contraceptives,07,03,02
+218,070303,Spermicidal Contraceptives,07,03,03
+219,070305,Emergency Contraception,07,03,05
+220,0704,Drugs For Genito-Urinary Disorders,07,04,
+221,070401,Drugs For Urinary Retention,07,04,01
+222,070402,Drugs/Urin'y Frequ'cy Enuresis & Incont,07,04,02
+223,070403,Drugs Used In Urological Pain,07,04,03
+224,070404,Bladder Instillations/Urological Surgery,07,04,04
+225,070405,Drugs For Erectile Dysfunction,07,04,05
+226,070406,Drugs For Premature Ejaculation,07,04,06
+227,08,Malignant Disease & Immunosuppression,08,,
+228,0801,Cytotoxic Drugs,08,01,
+229,080101,Alkylating Drugs,08,01,01
+230,080102,Anthracyclines & Cytotoxic Antibiotics,08,01,02
+231,080103,Antimetabolites,08,01,03
+232,080104,Vinca Alkaloids And Etoposide,08,01,04
+233,080105,Other Antineoplastic Drugs,08,01,05
+234,080106,Other Cytotoxic Drugs,08,01,06
+235,0802,Drugs Affecting The Immune Response,08,02,
+236,080201,Antiproliferative Immunosuppressants,08,02,01
+237,080202,Cortico'oids & Other Immunosuppressants,08,02,02
+238,080203,Anti-lymphocyte Monoclonal Antibodies,08,02,03
+239,080204,Other Immunomodulating Drugs,08,02,04
+240,0803,Sex Hormones & Antag In Malig Disease,08,03,
+241,080301,Oestrogens,08,03,01
+242,080302,Progestogens,08,03,02
+243,080304,Hormone Antagonists,08,03,04
+244,09,Nutrition And Blood,09,,
+245,0901,Anaemias + Other Blood Disorders,09,01,
+246,090101,Iron-Deficiency Anaemias,09,01,01
+247,090102,Drugs used in Megaloblastic Anaemias,09,01,02
+248,090103,Hypoplastic/Haemolytic & Renal Anaemias,09,01,03
+249,090104,Drugs used in Platelet Disorders,09,01,04
+250,090106,Drugs used in Neutropenia,09,01,06
+251,0902,Fluids And Electrolytes,09,02,
+252,090201,Oral Prepn for Fluid & Electrolyte Imb,09,02,01
+253,090202,Parent Prepn for Fluid & Electrolyte Imb,09,02,02
+254,0903,Intravenous Nutrition,09,03,
+255,0904,Oral Nutrition,09,04,
+256,090401,Foods For Special Diets,09,04,01
+257,090402,Enteral Nutrition,09,04,02
+258,0905,Minerals,09,05,
+259,090501,Calcium And Magnesium,09,05,01
+260,090502,Phosphorus,09,05,02
+261,090503,Fluoride,09,05,03
+262,090504,Zinc & Other Minerals,09,05,04
+263,090505,Selenium,09,05,05
+264,0906,Vitamins,09,06,
+265,090601,Vitamin A,09,06,01
+266,090602,Vitamin B Group,09,06,02
+267,090603,Vitamin C,09,06,03
+268,090604,Vitamin D,09,06,04
+269,090605,Vitamin E,09,06,05
+270,090606,Vitamin K,09,06,06
+271,090607,Multivitamin Preparations,09,06,07
+272,090608,Other Vitamin Formulations,09,06,08
+273,0907,Bitters And Tonics,09,07,
+274,0908,Metabolic Disorders,09,08,
+275,090801,Drugs Used in Metabolic Disorders,09,08,01
+276,0909,Foods,09,09,
+277,0910,Compound Vit/Mineral Formulations,09,10,
+278,0911,Health Supplements,09,11,
+279,091101,Amino Acids & Nutritional Agents,09,11,01
+280,091102,Enzymes,09,11,02
+281,091103,Glandular,09,11,03
+282,091104,Digestive Aids,09,11,04
+283,0912,Other Health Supplements,09,12,
+284,10,Musculoskeletal & Joint Diseases,10,,
+285,1001,Drugs Used In Rheumatic Diseases & Gout,10,01,
+286,100101,Non-Steroidal Anti-Inflammatory Drugs,10,01,01
+287,100102,Corticosteroids,10,01,02
+288,100103,Rheumatic Disease Suppressant Drugs,10,01,03
+289,100104,Gout & Cytotoxic Induced Hyperuicaemia,10,01,04
+290,100105,Other Drugs For Rheumatic Diseases,10,01,05
+291,1002,Drugs Used In Neuromuscular Disorders,10,02,
+292,100201,Dgs Which Enhance Neuromus'ar Transmi'on,10,02,01
+293,100202,Skeletal Muscle Relaxants,10,02,02
+294,1003,Soft-Tissue Disorders & Topical Pain Rel,10,03,
+295,100301,Enzymes,10,03,01
+296,100302,"Rubefacients,Top NSAIDS,Capsaicin & Poul",10,03,02
+297,11,Eye,11,,
+298,1103,Anti-Infective Eye Preparations,11,03,
+299,110301,Antibacterials,11,03,01
+300,110302,Antifungals,11,03,02
+301,110303,Antivirals,11,03,03
+302,1104,Corti'roids & Other Anti-Inflamm.Preps.,11,04,
+303,110401,Corticosteroids,11,04,01
+304,110402,Other Anti-Inflammatory Preparations,11,04,02
+305,1105,Mydriatics And Cycloplegics,11,05,
+306,1106,Treatment Of Glaucoma,11,06,
+307,1107,Local Anaesthetics,11,07,
+308,1108,Miscellaneous Ophthalmic Preparations,11,08,
+309,110801,"Tear Deficiency,Eye Lubricant/Astringent",11,08,01
+310,110802,Ocular Diagnos/Peri-op Prepn&Photodyn Tt,11,08,02
+311,110803,Other Eye Preparations,11,08,03
+312,12,"Ear, Nose And Oropharynx",12,,
+313,1201,Drugs Acting On The Ear,12,01,
+314,120101,Otitis Externa,12,01,01
+315,120103,Removal of Ear Wax & other Substances,12,01,03
+316,1202,Drugs Acting On The Nose,12,02,
+317,120201,Drugs Used In Nasal Allergy,12,02,01
+318,120202,Topical Nasal Decongestants,12,02,02
+319,120203,Nasal Prepn for Infection,12,02,03
+320,1203,Drugs Acting On The Oropharynx,12,03,
+321,120301,Drugs For Oral Ulceration & Inflammation,12,03,01
+322,120302,Oropharyngeal Anti-Infective Drugs,12,03,02
+323,120303,Lozenges & Sprays,12,03,03
+324,120304,"Mouth-Washes, Gargles, And Dentifrices",12,03,04
+325,120305,Treatment Of Dry Mouth,12,03,05
+326,13,Skin,13,,
+327,1301,Management of Skin Conditions,13,01,
+328,130101,Management of Skin Conditions,13,01,01
+329,1302,Emollient & Barrier Preparations,13,02,
+330,130201,Emollients,13,02,01
+331,130202,Barrier Preparations,13,02,02
+332,130203,Dusting-Powders,13,02,03
+333,1303,Top Local Anaesthetics & Antipruritics,13,03,
+334,1304,Topical Corticosteroids,13,04,
+335,1305,Preparations For Eczema And Psoriasis,13,05,
+336,130501,Preparations For Eczema,13,05,01
+337,130502,Preparations For Psoriasis,13,05,02
+338,130503,Drugs Affecting The Immune Response,13,05,03
+339,1306,Acne and Rosacea,13,06,
+340,130601,Topical Preparations For Acne,13,06,01
+341,130602,Oral Preparations For Acne,13,06,02
+342,130603,Topical Preparation For Rosacea,13,06,03
+343,1307,Preparations For Warts And Calluses,13,07,
+344,1308,Sunscreens And Camouflagers,13,08,
+345,130801,Sunscreening Preparations,13,08,01
+346,130802,Camouflagers,13,08,02
+347,1309,Shampoo&Other Preps For Scalp&Hair Cond,13,09,
+348,1310,Anti-Infective Skin Preparations,13,10,
+349,131001,Antibacterial Preparations,13,10,01
+350,131002,Antifungal Preparations,13,10,02
+351,131003,Antiviral Preparations,13,10,03
+352,131004,Parasiticidal Preparations,13,10,04
+353,131005,Prep's For Minor Cuts & Abrasions,13,10,05
+354,1311,"Skin Cleansers,Antiseptics & Desloughing",13,11,
+355,131101,Alcohols & Saline,13,11,01
+356,131102,Chlorhexidine Salts,13,11,02
+357,131103,Cationic Surfactants & Soaps,13,11,03
+358,131104,Chlorine & Iodine,13,11,04
+359,131105,Phenolics,13,11,05
+360,131106,Oxidisers & Dyes,13,11,06
+361,131107,Desloughing Agents,13,11,07
+362,1312,Antiperspirants,13,12,
+363,1313,Wound Management Products,13,13,
+364,131301,Medicated Stockings,13,13,01
+365,131308,Gel And Colloid Dressings,13,13,08
+366,1314,Topical Circulatory Preparations,13,14,
+367,1315,Miscellaneous Topical Preparations,13,15,
+368,14,Immunological Products & Vaccines,14,,
+369,1403,Diagnostic Vaccines,14,03,
+370,1404,Vaccines And Antisera,14,04,
+371,1405,Immunoglobulins,14,05,
+372,140501,Normal Immunoglobulin,14,05,01
+373,140502,Disease-Specific Immunoglobulins,14,05,02
+374,140503,Anti-D (Rho) Immunoglobulin,14,05,03
+375,15,Anaesthesia,15,,
+376,1501,General Anaesthesia,15,01,
+377,150101,Intravenous Anaesthetics,15,01,01
+378,150102,Inhalational Anaesthetics,15,01,02
+379,150103,Antimuscarinic Drugs,15,01,03
+380,150104,Sedative & Analgesic Peri-Operative Drgs,15,01,04
+381,150105,Neuromuscular Blocking Drugs,15,01,05
+382,150106,Anticholinesterases Used in Anaesthesia,15,01,06
+383,150107,Antagonists for Respiratory Depression,15,01,07
+384,1502,Local Anaesthesia,15,02,
+385,150201,Local Anaesthetics,15,02,01
+386,18,Preparations used in Diagnosis,18,,
+387,1803,X-Ray Contrast Media,18,03,
+388,19,Other Drugs And Preparations,19,,
+389,1901,"Alcohol, Wines & Spirits",19,01,
+390,1902,Selective Preparations,19,02,
+391,190201,Individually Formulated Preps-Bought In,19,02,01
+392,190202,Individ Formulated Preps-Prepared Extemp,19,02,02
+393,190203,Homeopathic Preparations,19,02,03
+394,190205,Household & Other Over The Counter Lines,19,02,05
+395,190207,Poisoning Antidotes,19,02,07
+396,1904,Single Substances,19,04,
+397,1905,Other Preparations,19,05,
+398,1906,Acids,19,06,
+399,190601,Concentrated Waters,19,06,01
+400,190603,Extracts,19,06,03
+401,190605,Oils,19,06,05
+402,190606,Tinctures,19,06,06
+403,190607,Syrups,19,06,07
+404,1907,Base/Dil/Susp Agents/Stabilisers,19,07,
+405,1908,"Colouring,Flavouring & Sweetening Agents",19,08,
+406,1909,"Disinfectants,Preserv&Sterilising Agents",19,09,
+407,1913,Cordials/Soft Drinks,19,13,
+408,1914,Waters,19,14,
+409,191401,Sterile Water,19,14,01
+410,191402,Purified Water,19,14,02
+411,1915,Other Gases,19,15,
+412,20,Dressings,20,,
+413,2001,Absorbent Cottons,20,01,
+414,2002,Arm Sling/Bandages,20,02,
+415,2003,Wound Management & Other Dressings,20,03,
+416,2004,Gauzes & Gauze Tissue,20,04,
+417,2005,Tracheostomy & Laryngectomy Appliances,20,05,
+418,2006,Foam,20,06,
+419,2007,Lints,20,07,
+420,2008,Plasters,20,08,
+421,2009,Stockinette,20,09,
+422,2010,Surgical Adhesive Tape,20,10,
+423,2011,Surgical Sutures,20,11,
+424,2012,Swabs,20,12,
+425,2013,Unspecified Dressing,20,13,
+426,2014,"Skin Closure Strips, Sterile",20,14,
+427,2015,"Skin Adhesive, Sterile",20,15,
+428,2016,Tapeless Holders,20,16,
+429,2017,Cervical Collar,20,17,
+430,2018,Cellulose Wadding BP 1988,20,18,
+431,2020,Silk Garments,20,20,
+432,21,Appliances,21,,
+433,2101,Other Appliances,21,01,
+434,2102,Catheters,21,02,
+435,2103,Chiropody Appliances,21,03,
+436,2104,Contraceptive Devices,21,04,
+437,2105,Suprapubic Appliances,21,05,
+438,2106,Trusses,21,06,
+439,2107,Elastic Hosiery,21,07,
+440,2108,Oxygen Masks,21,08,
+441,2109,Special Sanction Authorisations,21,09,
+442,2110,C.A.P.D. Administration Equipment,21,10,
+443,2111,Special Authorisation Guernsey,21,11,
+444,2112,Peak Flow Meters,21,12,
+445,2113,Catheter Maintenance Products,21,13,
+446,2114,Lubricant Gels,21,14,
+447,2116,Irrigation Solutions,21,16,
+448,2117,Nasal Device,21,17,
+449,2118,Vacuum Pumps for Erectile Dysfunction,21,18,
+450,2119,Oral Film Forming Agents,21,19,
+451,2120,Venous Ulcer Compression System,21,20,
+452,2121,Dry Mouth Products,21,21,
+453,2122,Emollients,21,22,
+454,2123,Vaginal Moisturisers,21,23,
+455,2124,Nasal Products,21,24,
+456,2125,Vaginal Dilators,21,25,
+457,2126,Leg Ulcer Wrap,21,26,
+458,2127,Lymphoedema Garments,21,27,
+459,2128,Anal Irrigation System,21,28,
+460,2129,Pressure Offloading Device,21,29,
+461,2130,Eye Products,21,30,
+462,2131,Cycloidal Vibration Accessories,21,31,
+463,2132,Inhalation Solutions,21,32,
+464,2133,Indwelling Pleural Cath Drain System,21,33,
+465,2134,Vaginal PH Correction Products,21,34,
+466,2135,Acne Treatment,21,35,
+467,2136,Adhesive Dressing Remover Ster Silicone,21,36,
+468,2137,Pelvic Toning Devices,21,37,
+469,2138,Low Friction Products,21,38,
+470,2139,Prosthetic Adhesives,21,39,
+471,2140,Bacterial Decolonisation Products,21,40,
+472,2141,Physical Debridement Device,21,41,
+473,2142,Jaw Rehabilitation Device,21,42,
+474,2143,Micro-Enema - Sodium Citrate,21,43,
+475,2144,Dev For Adjunctive Tt Of Hypertension,21,44,
+476,2145,Douches,21,45,
+477,2146,Hernia Support Garments,21,46,
+478,2147,Dev For Fungal Nail Infections,21,47,
+479,2148,Detection Sensor Interstitial Fluid/Gluc,21,48,
+480,2149,Pulsed Electromagnetic Stimulator,21,49,
+481,22,Incontinence Appliances,22,,
+482,2202,Anal Plugs,22,02,
+483,2205,Catheter Valves,22,05,
+484,2210,Drainable Dribbling Appliances,22,10,
+485,2215,Faecal Collectors,22,15,
+486,2220,Incontinence Belts,22,20,
+487,2230,Incontinence Sheaths,22,30,
+488,2240,Incontinence Sheath Fixing Strips & Adh,22,40,
+489,2250,Leg Bags,22,50,
+490,2260,Night Drainage Bags,22,60,
+491,2270,Suspensory Systems,22,70,
+492,2280,Tubing And Accessories,22,80,
+493,2285,Insert For Female Stress Incont,22,85,
+494,2290,Urinal Systems,22,90,
+495,23,Stoma Appliances,23,,
+496,2305,Adhesive Discs/Rings/Pads/Plasters,23,05,
+497,2310,Adhesive (Pastes/Sprays/Solutions),23,10,
+498,2315,Adhesive Removers (Sprays/Liquids/Wipes),23,15,
+499,2320,Bag Closures,23,20,
+500,2325,Bag Covers,23,25,
+501,2330,Belts,23,30,
+502,2335,Colostomy Bags,23,35,
+503,2340,Colostomy Sets,23,40,
+504,2345,Deodorants,23,45,
+505,2346,Discharge Solidifying Agents,23,46,
+506,2350,Filters/Bridges,23,50,
+507,2355,Flanges,23,55,
+508,2360,Ileostomy Bags,23,60,
+509,2365,Ileostomy Sets,23,65,
+510,2370,Irrigation Washout Appliances,23,70,
+511,2375,Pressure Plates/Shields,23,75,
+512,2380,Skin Fillers And Protectives,23,80,
+513,2385,Skin Protectors,23,85,
+514,2390,Stoma Caps/Dressings,23,90,
+515,2392,Tubing & Accessories,23,92,
+516,2393,Accessories (Guernsey),23,93,
+517,2394,Two Piece Ostomy Systems,23,94,
+518,2396,Urostomy Bags,23,96,
+519,2398,Urostomy Sets,23,98,
+520,2399,Ostomy Appliances R/Sub Allowed Pre 1985,23,99,

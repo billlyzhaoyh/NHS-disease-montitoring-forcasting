@@ -1,0 +1,23 @@
+Name of field,Description,Comments
+YEAR,Year of data collection.,
+MONTH,Month of data collection.,
+COMM_REGION_CODE,NHS England Commissioning Region organisation code. ,
+COMM_REGION_NAME,NHS England Commissioning Region organisation name. ,
+HEE_REGION_CODE,Health Education England Local Education Training Board organisation code. ,
+HEE_REGION_NAME,Health Education England Local Education Training Board organisation name. ,
+REGION_GEOG_CODE,"NHS England (region, local office) organisation code. ",
+REGION_GEOG_NAME,"NHS England (region, local office) organisation name. ",
+STP_CODE,Sustainability and Transformation Partnership Area code. ,
+STP_NAME,Sustainability and Transformation Partnership Area name. ,
+CCG_CODE,Clinical Commissioning Group organisation code. ,
+CCG_NAME,Clinical Commissioning Group organisation name. ,
+DATA_SOURCE,"Provided', 'Estimated' or 'Estimated FTE'","Practices providing no data or found to have poor data quality have had data removed and replaced with aggregated CCG-level estimates. These CCG level estimates are calculated where data is not available for a practice at a Staff Group level, and have a Data_Source of 'Estimated'. Valid data received through the NWRS, TIS, or the HEE Tools have a Data_Source of 'Provided'. Some records received through these tools are identified as ""Estimated FTE"" where only their FTE has been estimated, due to the submission of no hours in the provided record. The Estimation methodology can be found in the Publication's Data Quality Statement."
+UNIQUE_IDENTIFIER,"A Pseudonymised number created for each person, and each estimate, enabling the calculating of Headcount figures. Where the same person can be identified across multiple records, these records are all given the same identifier. For a set of FTE-only GP Locum estimates for September 2015, March 2016, September 2016 and December 2016 no Unique_Identifier is provided as it has not been possible to calculate Headcount figures for these estimations - please see the accompanying Guidance document to ensure you calculate Headcount correctly for these four reporting periods.","These identifiers cannot be guaranteed to always remain consistent across different data collections, due to errors in the underlying data preventing the identification of a specific individual or the apparent duplication of certain identifying fields."
+STAFF_GROUP,"Staff group: GP, Nurse, Direct Patient Care or Admin/Non-clinical. ",
+JOB_ROLE,The detailed job role information. These job roles are grouped within the PUB_JOB_ROLE categories.,
+PUBLISHED_JOB_ROLE,"Job role categories, sitting within the staff groups.",
+COUNTRY_QUALIFICATION_AREA,"Country Area in which the GP gained their qualification, if known.",This is not populated for estimated data.
+COUNTRY_QUALIFICATION_GROUP,"Country Group in which the GP gained their qualification, if known.",This is not populated for estimated data.
+AGE_YEARS,"Age in years as at census date, if known.",This is not populated for estimated data.
+GENDER,"Gender, if known.",This is not populated for estimated data.
+FTE,Full time equivalent where 1.0 = 37.5 hours per week.,
